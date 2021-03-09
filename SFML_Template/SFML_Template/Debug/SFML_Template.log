@@ -1,0 +1,80 @@
+﻿  base.cpp
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\base.cpp(15): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\base.cpp(16): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\main.cpp(106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  obs.cpp
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(25): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(26): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(28): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(29): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(31): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(32): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\obs.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Frog.cpp
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(16): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(19): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  UI.cpp
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\ui.cpp(84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\ui.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\ui.cpp(99): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tia-a\documents\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\ui.cpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  SFML_Template.vcxproj -> C:\Users\Tia-A\Documents\rawr\final\SFML_Template\SFML_Template\SFML_Template\Debug\SFML_Template.exe
